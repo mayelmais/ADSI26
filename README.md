@@ -24,24 +24,24 @@ Construcción de una aplicación móvil en donde los estudiantes puedan programa
 ## Entregables
 
 ### 1. 3 Personas
-*(Espacio para que el equipo agregue la descripción e imágenes de las 3 Personas)*
+*(3 Personas)*
 
 ### 2. 1 Customer Journey
-*(Espacio para que el equipo agregue el mapa del Customer Journey)*
+*(Customer Journey)*
 
 ### 3. 1 Prototipo a Papel
-*(Espacio para que el equipo agregue las imágenes/evidencias del prototipo a papel)*
+*(Prototipo a papel)*
 
 ### 4. 3 Pruebas del Prototipo a Papel
-*(Espacio para que el equipo documente los escenarios y resultados de las 3 pruebas iniciales)*
+*(3 pruebas iniciales)*
 
 ### 5. 1 Reflexión sobre los Hallazgos y Cambios a Realizar (De Papel a Medio Nivel)
-*(Espacio para que el equipo redacte qué falló en el papel y cómo se solucionó al pasarlo a digital)*
+*(Reflexión)*
 
 ---
 
 ### 6. 1 Prototipo a Medio Nivel
-En esta etapa construimos un *wireframe* interactivo en escala de grises para validar la arquitectura de la información, el flujo de navegación ("Happy Path") y la usabilidad estructural antes de invertir tiempo en el diseño visual.
+En esta etapa construimos un *wireframe* interactivo en escala de grises para validar la arquitectura de la información, el flujo de navegación y la usabilidad estructural antes de invertir tiempo en el diseño visual.
 
 * **Prototipo (Diseño en Figma):** [Ver archivo de Figma](https://www.figma.com/design/s6R7mhIO14TVrg9y1aNgOc/Cafeteria-Medio-Nivel?node-id=0-1&t=NneSjFBnyN4NlNiw-1)
 * **Prueba Digital (Prototipo Interactivo):** [Probar prototipo de medio nivel](https://www.figma.com/proto/s6R7mhIO14TVrg9y1aNgOc/Cafeteria-Medio-Nivel?node-id=0-1&t=NneSjFBnyN4NlNiw-1)
