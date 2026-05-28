@@ -104,7 +104,6 @@ Backlog de la planeación, asignación de tareas y el progreso general de nuestr
 * **21:** Varias opciones con lógica compleja
 * **30:** Integración de APIs externas
 
-## Backlog
 
 | Usuario               | User Story                                                                                                                                            | Complejidad | Prioridad |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----------: | --------- |
