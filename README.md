@@ -91,7 +91,7 @@ Backlog de la planeación, asignación de tareas y el progreso general de nuestr
 ---
 
 ## User Stories
-# Backlog del Proyecto: App de Cafetería Estudiantil
+
 
 ## Criterios de complejidad
 
