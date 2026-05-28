@@ -5,7 +5,7 @@
 **Equipo PAID**
 
 **Integrantes:**
-* Pablo
+* Pablo Ernesto Gómez Ignorosa (211643)
 * Ana Sofía
 * Ismael Cabrera Arroyo (217632)
 * Dulce
@@ -85,13 +85,13 @@ A los usuarios se les asignó la tarea de: Iniciar sesión, personalizar un Capu
 
 A continuación se presentan las métricas obtenidas de las interacciones de los usuarios durante la prueba:
 
-![Resultados Lyssna 1](./assets/resultado_lyssna_1.png)
+![Resultados Lyssna 1](./Assets/resultado_lyssna_1.png)
 
-![Resultados Lyssna 2](./assets/resultado_lyssna_2.png)
+![Resultados Lyssna 2](./Assets/resultado_lyssna_2.png)
 
-![Resultados Lyssna 3](./assets/resultado_lyssna_3.png)
+![Resultados Lyssna 3](./Assets/resultado_lyssna_3.png)
 
-![Resultados Lyssna 4](./assets/resultado_lyssna_4.png)
+![Resultados Lyssna 4](./Assets/resultado_lyssna_4.png)
 
 ---
 
