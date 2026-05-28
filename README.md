@@ -86,4 +86,4 @@ Versión final de la aplicación con diseño visual completo, tipografías, pale
 ## Backlog del Proyecto
 Puedes consultar la planeación, asignación de tareas y el progreso general de nuestro equipo durante el desarrollo de esta aplicación en nuestro tablero interactivo:
 
-* [Ver Backlog del Equipo PAID (GitHub Projects)](https://github.com/users/mayelmais/projects/1/views/1)
+* [Ver Backlog](https://github.com/users/mayelmais/projects/1/views/1)
