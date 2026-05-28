@@ -80,3 +80,10 @@ Versión final de la aplicación con diseño visual completo, tipografías, pale
 (Preferible en telefono)
 * **Prototipo (Diseño en Figma):** [Ver archivo de Figma](https://www.figma.com/design/FpGEyCkSmcWek0Cf3JsSiY/Cafeteria-Alto-Nivel?node-id=0-1&t=U9VXwjtCamA71Exd-1)
 * **Prueba Digital (Prototipo Interactivo):** [Probar prototipo final](https://www.figma.com/proto/FpGEyCkSmcWek0Cf3JsSiY/Cafeteria-Alto-Nivel?node-id=0-1&t=U9VXwjtCamA71Exd-1)
+
+---
+
+## Backlog del Proyecto
+Puedes consultar la planeación, asignación de tareas y el progreso general de nuestro equipo durante el desarrollo de esta aplicación en nuestro tablero interactivo:
+
+* [Ver Backlog del Equipo PAID (GitHub Projects)](https://github.com/users/mayelmais/projects/1/views/1)
