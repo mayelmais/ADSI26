@@ -73,7 +73,29 @@ En esta etapa construimos un *wireframe* interactivo en escala de grises para va
 
 ---
 
-### 7. 1 Reflexión sobre los Hallazgos y Cambios a Realizar (De Medio a Alto Nivel)
+### 7. Pruebas de usuario en Lyssna
+
+Para validar la intuición de la navegación realizamos un *Navigation Test* interactivo utilizando **Lyssna**. 
+
+A los usuarios se les asignó la tarea de: Iniciar sesión, personalizar un Capuchino, revisar el carrito, pagar con Apple Pay y programar su horario de recolección.
+
+**[Enlace a la prueba interactiva en Lyssna](https://app.lyssna.com/do/ztfe4nkszj1y/z6za6z)**
+
+### Resultados de la Prueba
+
+A continuación se presentan las métricas obtenidas de las interacciones de los usuarios durante la prueba:
+
+![Resultados Lyssna 1](./assets/resultado_lyssna_1.png)
+
+![Resultados Lyssna 2](./assets/resultado_lyssna_2.png)
+
+![Resultados Lyssna 3](./assets/resultado_lyssna_3.png)
+
+![Resultados Lyssna 4](./assets/resultado_lyssna_4.png)
+
+---
+
+### 8. 1 Reflexión sobre los Hallazgos y Cambios a Realizar (De Medio a Alto Nivel)
 **Objetivo de la prueba:** Validar la fluidez del flujo de pedido (seleccionar un café, personalizarlo y pagarlo) garantizando que el proceso completo se sienta ágil para cumplir con la promesa de valor de la app.
 
 **Hallazgos Principales (Prueba Digital de Medio Nivel):**
@@ -90,7 +112,7 @@ Con base en estos hallazgos, el diseño evolucionó enfocándose en la respuesta
 
 ---
 
-### 8. 1 Prototipo a Alto Nivel
+### 9. 1 Prototipo a Alto Nivel
 Versión final de la aplicación con diseño visual completo, tipografías, paleta de colores, microinteracciones y los ajustes de usabilidad aplicados tras las pruebas de usuario.
 
 (Preferible en telefono)
