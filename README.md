@@ -16,7 +16,7 @@
 Construcción de una aplicación móvil en donde los estudiantes puedan programar pedidos de café antes de entrar a clase para optimizar su tiempo. La aplicación incluye:
 * Manera intuitiva de seleccionar el menú.
 * Sistema para elegir y personalizar un pedido.
-* Múltiples opciones de pago integradas (Débito, Crédito, Apple Pay, Efectivo).
+* Múltiples opciones de pago integradas (Tarjeta Bancaria (Debito o Credito), Apple Pay, Efectivo).
 * Proceso claro para confirmar la hora exacta de entrega.
 
 ---
