@@ -27,22 +27,25 @@ Construcción de una aplicación móvil en donde los estudiantes puedan programa
 
 Para entender las necesidades y motivaciones de nuestros usuarios, desarrollamos 3 perfiles principales.
 
-### Persona 1: El Estudiante Acelerado
+### Persona 1: El estudiante acelerado
 Representa a nuestro usuario principal, enfocado en la velocidad y la eficiencia.
 ![Persona 1 - Mateo](./Assets/persona_1.png)
 
-### Persona 2: La Profesora con Agenda Llena
+### Persona 2: La profesora con agenda llena
 Representa al personal académico que valora la previsibilidad y la puntualidad extrema.
 ![Persona 2 - Elena](./Assets/persona_2.png)
 
-### Persona 3: La Estudiante Organizadora
+### Persona 3: La estudiante organizadora
 Representa al usuario que realiza pedidos múltiples o altamente personalizados para equipos de trabajo.
 ![Persona 3 - Valeria](./Assets/persona_3.png)
 
 ---
 
 ### 2. 1 Customer Journey
-*(Customer Journey)*
+
+Trazamos el recorrido de nuestro usuario para identificar los *touchpoints*, sus emociones durante el proceso y las oportunidades de mejora en cada fase.
+
+![Customer Journey Map](./Assets/customer_journey.png)
 
 ---
 
