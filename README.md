@@ -87,3 +87,8 @@ Versión final de la aplicación con diseño visual completo, tipografías, pale
 Backlog de la planeación, asignación de tareas y el progreso general de nuestro equipo durante el desarrollo de la aplicación:
 
 * [Ver Backlog](https://github.com/users/mayelmais/projects/1/views/1)
+
+---
+
+## User Stories
+(user stories)
