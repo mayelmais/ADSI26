@@ -26,14 +26,22 @@ Construcción de una aplicación móvil en donde los estudiantes puedan programa
 ### 1. 3 Personas
 *(3 Personas)*
 
+---
+
 ### 2. 1 Customer Journey
 *(Customer Journey)*
+
+---
 
 ### 3. 1 Prototipo a Papel
 *(Prototipo a papel)*
 
+---
+
 ### 4. 3 Pruebas del Prototipo a Papel
 *(3 pruebas iniciales)*
+
+---
 
 ### 5. 1 Reflexión sobre los Hallazgos y Cambios a Realizar (De Papel a Medio Nivel)
 *(Reflexión)*
