@@ -29,15 +29,15 @@ Para entender las necesidades y motivaciones de nuestros usuarios, desarrollamos
 
 ### Persona 1: El Estudiante Acelerado
 Representa a nuestro usuario principal, enfocado en la velocidad y la eficiencia.
-![Persona 1 - Mateo](./assets/persona_1.png)
+![Persona 1 - Mateo](./Assets/persona_1.png)
 
 ### Persona 2: La Profesora con Agenda Llena
 Representa al personal académico que valora la previsibilidad y la puntualidad extrema.
-![Persona 2 - Elena](./assets/persona_2.png)
+![Persona 2 - Elena](./Assets/persona_2.png)
 
 ### Persona 3: La Estudiante Organizadora
 Representa al usuario que realiza pedidos múltiples o altamente personalizados para equipos de trabajo.
-![Persona 3 - Valeria](./assets/persona_3.png)
+![Persona 3 - Valeria](./Assets/persona_3.png)
 
 ---
 
