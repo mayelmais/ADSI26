@@ -1,11 +1,12 @@
 # Proyecto Final: App de Cafetería Estudiantil
 
 **Materia:** Análisis y Diseño de Sistemas de Información (COM-12102-001)
+
 **Equipo PAID**
 **Integrantes:**
 * Pablo
 * Ana Sofía
-* Ismael
+* Ismael Cabrera Arroyo CU:217632
 * Dulce
 
 ---
