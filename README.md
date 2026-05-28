@@ -67,9 +67,9 @@ Al probar el prototipo interactivo en escala de grises con usuarios representati
 
 **Cambios Implementados (Prototipo de Alto Nivel):**
 Con base en estos hallazgos, el diseño evolucionó enfocándose en la respuesta visual y la velocidad:
-* **Inclusión de ilustraciones a color:** Se sustituyeron los cuadros grises por ilustraciones claras de cada bebida (Capuchino, Matcha, etc.)[cite: 2]. Esto permite al estudiante escanear el menú visualmente en una fracción de segundo.
-* **Reconocimiento de marca en pagos:** En la pantalla "Total a pagar", se incorporaron los logotipos oficiales de los métodos de pago (Visa, Mastercard, Apple Pay) junto al texto[cite: 2]. Esto facilita el reconocimiento inmediato.
-* **Barra de progreso en tiempo real (Live Tracker):** Para eliminar la incertidumbre, la pantalla de "Tu orden" se rediseñó por completo[cite: 2]. Se añadió una línea de tiempo con tres estados visuales (*Recibido*, *Preparando* y *En barra*), complementada con la hora exacta en la que el pedido estará listo[cite: 2].
+* **Inclusión de ilustraciones a color:** Se sustituyeron los cuadros grises por ilustraciones claras de cada bebida (Capuchino, Matcha, etc.). Esto permite al estudiante escanear el menú visualmente en una fracción de segundo.
+* **Reconocimiento de marca en pagos:** En la pantalla "Total a pagar", se incorporaron los logotipos oficiales de los métodos de pago (Visa, Mastercard, Apple Pay) junto al texto. Esto facilita el reconocimiento inmediato.
+* **Barra de progreso en tiempo real (Live Tracker):** Para eliminar la incertidumbre, la pantalla de "Tu orden" se rediseñó por completo. Se añadió una línea de tiempo con tres estados visuales (*Recibido*, *Preparando* y *En barra*), complementada con la hora exacta en la que el pedido estará listo.
 
 ---
 
