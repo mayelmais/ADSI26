@@ -91,4 +91,34 @@ Backlog de la planeación, asignación de tareas y el progreso general de nuestr
 ---
 
 ## User Stories
-(user stories)
+# Backlog del Proyecto: App de Cafetería Estudiantil
+
+## Criterios de complejidad
+
+* **1:** Cambio mínimo
+* **3:** Interfaz/frontend
+* **5:** Mostrar datos o cálculo simple
+* **7:** Base de datos y lógica básica
+* **10:** Funcionalidad completa con formulario
+* **15:** Nueva interfaz y base de datos
+* **21:** Varias opciones con lógica compleja
+* **30:** Integración de APIs externas
+
+## Backlog
+
+| Usuario               | User Story                                                                                                                                            | Complejidad | Prioridad |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----------: | --------- |
+| Estudiante: Dulce     | Como estudiante, quiero consultar el menú de bebidas disponibles, para elegir fácilmente qué café pedir antes de entrar a clase.                      |           5 | Alta      |
+| Estudiante: Rafael    | Como estudiante, quiero personalizar mi bebida con opciones como tamaño, tipo de leche y azúcar, para pedirla de acuerdo con mis gustos.              |          21 | Alta      |
+| Estudiante: Sara      | Como estudiante, quiero elegir la hora exacta de entrega de mi café, para recogerlo antes de entrar a clase.                                          |          10 | Alta      |
+| Estudiante: Diego     | Como estudiante, quiero ver el tiempo estimado de preparación, para saber cuándo ir por mi café.                                                      |           5 | Alta      |
+| Estudiante: Iñaki     | Como estudiante, quiero pagar con tarjeta de débito, para no tener que usar efectivo.                                                                 |          30 | Alta      |
+| Estudiante: Raúl      | Como estudiante, quiero pagar con tarjeta de crédito, para tener otra opción de pago dentro de la aplicación.                                         |          30 | Alta      |
+| Estudiante: Alejandro | Como estudiante, quiero seleccionar pago en efectivo, para poder pagar al recoger mi pedido.                                                          |           7 | Media     |
+| Estudiante: Mónica    | Como estudiante, quiero crear una cuenta, para identificarme dentro de la aplicación.                                                                 |          10 | Alta      |
+| Estudiante: Tomás     | Como estudiante, quiero iniciar sesión, para acceder a mis pedidos y guardar mi información.                                                          |           7 | Alta      |
+| Estudiante: Leo       | Como estudiante, quiero guardar mis pedidos favoritos, para repetirlos rápidamente.                                                                   |           7 | Media     |
+| Estudiante: Sandra    | Como estudiante, quiero recibir promociones y descuentos, para gastar menos dinero en mis compras.                                                    |           3 | Baja      |
+| Estudiante: Nelly     | Como estudiante, quiero ver el estado de mi orden, para saber si mi café fue recibido, está en preparación o ya está listo.                           |          15 | Alta      |
+| Estudiante: Fátima    | Como usuario, quiero revisar el resumen de mi pedido antes de confirmar, para verificar la bebida, personalización, hora de entrega y método de pago. |           5 | Alta      |
+
