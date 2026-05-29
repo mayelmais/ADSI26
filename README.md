@@ -6,7 +6,7 @@
 
 **Integrantes:**
 * Pablo Ernesto Gómez Ignorosa (211643)
-* Ana Sofía
+* Ana Sofía Ceballos Martínez (212560)
 * Ismael Cabrera Arroyo (217632)
 * Dulce
 
