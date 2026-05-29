@@ -64,7 +64,8 @@ Trazamos el recorrido de nuestro usuario para identificar los *touchpoints*, sus
 
 <img width="1701" height="1400" alt="F063F220-7970-4814-BBF6-B4F00172443C" src="https://github.com/user-attachments/assets/f46b7f2e-9df5-4fbb-8483-2513b9c0a797" />
 
-<img width="17011" height="1400" alt="6165903F-ACB5-41DE-94A4-E209BFC83D97" src="https://github.com/user-attachments/assets/b4ab7948-891e-40fb-b4c5-37abd41687bc" />
+<img width="1701" height="1400" alt="6165903F-ACB5-41DE-94A4-E209BFC83D97" src="https://github.com/user-attachments/assets/b4ab7948-891e-40fb-b4c5-37abd41687bc" />
+
 
 ---
 
