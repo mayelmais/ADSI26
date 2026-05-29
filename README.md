@@ -70,7 +70,13 @@ Trazamos el recorrido de nuestro usuario para identificar los *touchpoints*, sus
 ---
 
 ### 4. Pruebas del Prototipo a Papel
-*(3 pruebas iniciales)*
+Para validar el primer acercamiento de la aplicación, realizamos una prueba exploratoria del prototipo a papel con 3 personas. El objetivo principal fue observar si el flujo general de la app resultaba claro antes de avanzar hacia un prototipo digital de mayor fidelidad.
+
+Durante la prueba, cada participante recorrió las pantallas impresas como si estuviera usando la aplicación. Conforme avanzaban, se les pedía que indicaran qué acción realizarían en cada paso: iniciar sesión, revisar el menú, elegir una bebida, elegir método de pago, seleccionar una hora de entrega y llegar a la confirmación final. Una persona del equipo actuó como facilitadora, tomando nota de dudas, pausas o comentarios espontáneos.
+
+Aunque la prueba fue sencilla y de baja fidelidad, permitió identificar aspectos importantes del diseño inicial. En general, los usuarios comprendieron la idea central de pedir café con anticipación; sin embargo, también surgieron dudas sobre algunos elementos del flujo. Por ejemplo, crear la cuenta podía hacer que el proceso se sintiera más largo de lo necesario, especialmente considerando que la aplicación está pensada para estudiantes con poco tiempo antes de entrar a clase. También se observó que algunas pantallas necesitaban mayor claridad visual para distinguir mejor entre elegir una bebida, personalizarla y confirmar el pedido.
+
+A continuación, se incluyen los enlaces a los videos de las pruebas realizadas con los tres participantes, con el fin de mostrar el recorrido del prototipo a papel: https://drive.google.com/drive/folders/1y4eDQwtc4Q_dRLyVL0WrP3-OVnlcFblG?usp=sharing
 
 ---
 
