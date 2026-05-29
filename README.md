@@ -50,21 +50,21 @@ Trazamos el recorrido de nuestro usuario para identificar los *touchpoints*, sus
 ---
 
 ### 3. Prototipo a Papel
-<img width="1701" height="1500" alt="62F88648-8068-4BD2-8D4A-3DE713022B12" src="https://github.com/user-attachments/assets/17bc3272-7764-438f-82b9-caa7a8ef4ccb" />
+<img width="1701" height="1400" alt="62F88648-8068-4BD2-8D4A-3DE713022B12" src="https://github.com/user-attachments/assets/17bc3272-7764-438f-82b9-caa7a8ef4ccb" />
 
-<img width="1701" height="1500" alt="DC4433D5-4B19-49D0-859D-029284440D21" src="https://github.com/user-attachments/assets/d2b32681-4fae-4ac1-90f1-bb30542fbe66" />
+<img width="1701" height="1400" alt="DC4433D5-4B19-49D0-859D-029284440D21" src="https://github.com/user-attachments/assets/d2b32681-4fae-4ac1-90f1-bb30542fbe66" />
 
-<img width="1701" height="1500" alt="43C7D0D4-8905-4A4A-AA45-23CA9CF01F61" src="https://github.com/user-attachments/assets/d68f94d6-b6d9-4518-8eaf-3bc6d10109fc" />
+<img width="1701" height="1400" alt="43C7D0D4-8905-4A4A-AA45-23CA9CF01F61" src="https://github.com/user-attachments/assets/d68f94d6-b6d9-4518-8eaf-3bc6d10109fc" />
 
-<img width="1701" height="1500" alt="72DAACF4-4D1C-4FF5-AC92-4429B8675660" src="https://github.com/user-attachments/assets/fa01041a-eb0d-401f-9c62-1de66050ada2" />
+<img width="1701" height="1400" alt="72DAACF4-4D1C-4FF5-AC92-4429B8675660" src="https://github.com/user-attachments/assets/fa01041a-eb0d-401f-9c62-1de66050ada2" />
 
-<img width="1701" height="1500" alt="3E96F35C-321E-4AAF-B65E-77591DA14594" src="https://github.com/user-attachments/assets/72c7483d-7907-4318-a44c-1a71e196c704" />
+<img width="1701" height="1400" alt="3E96F35C-321E-4AAF-B65E-77591DA14594" src="https://github.com/user-attachments/assets/72c7483d-7907-4318-a44c-1a71e196c704" />
 
-<img width="1701" height="1500" alt="72D6D5D4-2C0E-496F-95F3-906D77144A2E" src="https://github.com/user-attachments/assets/b89e928a-c004-4590-a41f-2185caa00dfc" />
+<img width="1701" height="1400" alt="72D6D5D4-2C0E-496F-95F3-906D77144A2E" src="https://github.com/user-attachments/assets/b89e928a-c004-4590-a41f-2185caa00dfc" />
 
-<img width="1701" height="1500" alt="F063F220-7970-4814-BBF6-B4F00172443C" src="https://github.com/user-attachments/assets/f46b7f2e-9df5-4fbb-8483-2513b9c0a797" />
+<img width="1701" height="1400" alt="F063F220-7970-4814-BBF6-B4F00172443C" src="https://github.com/user-attachments/assets/f46b7f2e-9df5-4fbb-8483-2513b9c0a797" />
 
-<img width="17011" height="1500" alt="6165903F-ACB5-41DE-94A4-E209BFC83D97" src="https://github.com/user-attachments/assets/b4ab7948-891e-40fb-b4c5-37abd41687bc" />
+<img width="17011" height="1400" alt="6165903F-ACB5-41DE-94A4-E209BFC83D97" src="https://github.com/user-attachments/assets/b4ab7948-891e-40fb-b4c5-37abd41687bc" />
 
 ---
 
