@@ -60,7 +60,50 @@ Trazamos el recorrido de nuestro usuario para identificar los *touchpoints*, sus
 ---
 
 ### 5. 1 Reflexión sobre los Hallazgos y Cambios a Realizar (De Papel a Medio Nivel)
-*(Reflexión)*
+## 5. Reflexión sobre los Hallazgos y Cambios a Realizar
+
+### De Prototipo a Papel a Prototipo de Medio Nivel
+
+En el primer prototipo a papel, la aplicación incluía una pantalla de ubicación para que el usuario pudiera elegir la sucursal donde recogería su café. Sin embargo, durante la revisión, notamos que agregar un mapa no era tan viable para el usuario ni para el alcance del proyecto, ya que podía hacer el proceso más largo y confuso.
+
+Como el objetivo principal de la aplicación es que el estudiante pueda pedir su café de forma rápida antes de entrar a clase, decidimos eliminar la selección de sucursal y dejar una ubicación fija. Con este cambio, el usuario puede avanzar más rápido hacia la selección del horario y el pago.
+
+También identificamos que el menú necesitaba ser más claro para que el usuario pudiera reconocer las bebidas con facilidad. Por eso, en el prototipo de medio nivel se mejoró la organización del menú y del proceso de pedido, buscando que la navegación fuera más directa.
+
+Otro cambio importante fue agregar más formas de pago. En el prototipo inicial el proceso de pago era más limitado, por lo que se integraron diferentes opciones como tarjeta de débito, tarjeta de crédito, Apple Pay y efectivo. Esto permite que el usuario tenga más alternativas al momento de finalizar su pedido.
+
+En conclusión, los cambios del prototipo a papel al prototipo de medio nivel se enfocaron en simplificar y eliminar elementos poco necesarios y mejorar la claridad de las funciones principales: elegir una bebida, seleccionar un horario y pagar.
+
+---
+
+## 8. Reflexión sobre los Hallazgos y Cambios a Realizar
+
+### De Prototipo de Medio Nivel a Prototipo de Alto Nivel
+
+El objetivo de la prueba del prototipo de medio nivel fue validar la fluidez del flujo principal de la aplicación: seleccionar un café, personalizarlo, elegir un horario de entrega y realizar el pago. La intención era comprobar que el proceso completo se sintiera rápido y claro para el usuario, ya que la promesa de valor de la aplicación es permitir que los estudiantes pidan su café antes de entrar a clase.
+
+### Hallazgos principales
+
+Durante la prueba digital del prototipo de medio nivel, se identificaron tres áreas de oportunidad principales.
+
+Primero, se observó fricción cognitiva en el menú. Al tener las bebidas representadas con cuadros grises o elementos visuales poco detallados, los usuarios tardaban más en identificar la bebida que querían pedir. En una aplicación pensada para estudiantes con prisa, depender demasiado de la lectura hacía que el proceso se sintiera menos ágil.
+
+Segundo, se detectó que la pantalla de métodos de pago podía ser más clara. En el prototipo de medio nivel, las opciones dependían principalmente del texto, por lo que el usuario tenía que leer cada opción con cuidado antes de seleccionar una. Esto podía generar retrasos justo en una de las partes más importantes del flujo: el pago.
+
+Tercero, se encontró incertidumbre después de confirmar el pedido. La pantalla final no comunicaba con suficiente claridad el estado real de la orden, por lo que el usuario podía quedarse con dudas sobre si el café ya había sido recibido, si estaba en preparación o si ya estaba listo para recoger.
+
+### Cambios implementados en el prototipo de alto nivel
+
+Con base en estos hallazgos, el prototipo evolucionó hacia una versión de alto nivel con mayor claridad visual y una navegación más directa.
+
+Se agregaron ilustraciones a color para representar las bebidas del menú. Esto permite que el usuario identifique más rápido el producto que desea pedir, sin depender únicamente del texto. Por ejemplo, en la pantalla de producto se muestra la bebida seleccionada, su precio, descripción y opciones de personalización como tamaño y tipo de leche.
+
+También se mejoró la pantalla de pago al incluir elementos visuales para los métodos disponibles. En la pantalla de “Total a pagar” se muestran opciones como débito, crédito, Apple Pay y efectivo, acompañadas de sus respectivos íconos. Esto facilita que el usuario reconozca cada método de pago de manera más rápida.
+
+Además, se rediseñó la pantalla de seguimiento de la orden. En lugar de mostrar únicamente una confirmación estática, se agregó una barra de progreso con tres estados: **Recibido**, **Preparando** y **En barra**. También se muestra la hora elegida y la hora estimada en la que el café estará listo. Esto ayuda a disminuir la incertidumbre del usuario después de realizar el pedido.
+
+En conclusión, los cambios del prototipo de medio nivel al prototipo de alto nivel se enfocaron en mejorar la experiencia visual, reducir el esfuerzo del usuario y hacer que el flujo de pedido fuera más rápido, claro y confiable.
+
 
 ---
 
