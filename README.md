@@ -23,7 +23,7 @@ Construcción de una aplicación móvil en donde los estudiantes puedan programa
 
 ## Entregables
 
-### 1. 3 Personas
+### 1. Personas
 
 Para entender las necesidades y motivaciones de nuestros usuarios, desarrollamos 3 perfiles principales.
 
@@ -41,7 +41,7 @@ Representa al usuario que realiza pedidos múltiples o altamente personalizados 
 
 ---
 
-### 2. 1 Customer Journey
+### 2. Customer Journey
 
 Trazamos el recorrido de nuestro usuario para identificar los *touchpoints*, sus emociones durante el proceso y las oportunidades de mejora en cada fase.
 
@@ -49,7 +49,7 @@ Trazamos el recorrido de nuestro usuario para identificar los *touchpoints*, sus
 
 ---
 
-### 3. 1 Prototipo a Papel
+### 3. Prototipo a Papel
 <img width="1201" height="1600" alt="62F88648-8068-4BD2-8D4A-3DE713022B12" src="https://github.com/user-attachments/assets/17bc3272-7764-438f-82b9-caa7a8ef4ccb" />
 
 <img width="1201" height="1600" alt="DC4433D5-4B19-49D0-859D-029284440D21" src="https://github.com/user-attachments/assets/d2b32681-4fae-4ac1-90f1-bb30542fbe66" />
@@ -68,12 +68,11 @@ Trazamos el recorrido de nuestro usuario para identificar los *touchpoints*, sus
 
 ---
 
-### 4. 3 Pruebas del Prototipo a Papel
+### 4. Pruebas del Prototipo a Papel
 *(3 pruebas iniciales)*
 
 ---
 
-### 5. 1 Reflexión sobre los Hallazgos y Cambios a Realizar (De Papel a Medio Nivel)
 ## 5. Reflexión sobre los Hallazgos y Cambios a Realizar
 
 ### De Prototipo a Papel a Prototipo de Medio Nivel
@@ -90,7 +89,7 @@ En conclusión, los cambios del prototipo a papel al prototipo de medio nivel se
 
 ---
 
-### 6. 1 Prototipo a Medio Nivel
+### 6. Prototipo a Medio Nivel
 En esta etapa construimos un *wireframe* interactivo en escala de grises para validar la arquitectura de la información, el flujo de navegación y la usabilidad estructural antes de invertir tiempo en el diseño visual.
 
 (Preferible en telefono)
@@ -151,7 +150,7 @@ En conclusión, los cambios del prototipo de medio nivel al prototipo de alto ni
 
 ---
 
-### 9. 1 Prototipo a Alto Nivel
+### 9. Prototipo a Alto Nivel
 Versión final de la aplicación con diseño visual completo, tipografías, paleta de colores, microinteracciones y los ajustes de usabilidad aplicados tras las pruebas de usuario.
 
 (Preferible en telefono)
